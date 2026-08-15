@@ -1,0 +1,14 @@
+# Generated on 2026-11-15
+# This file is used to override language statistics
+node_modules/* linguist-vendored
+yarn.lock linguist-generated
+*.ts linguist-detectable
+*.json linguist-detectable=false
+
+*.yml linguist-detectable=false
+dist/* linguist-vendored
+*.png binary
+public/index.html linguist-vendored
+public/* linguist-vendored   
+
+# eof c559b8b0
